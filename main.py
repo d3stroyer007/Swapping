@@ -9,3 +9,8 @@ numbers[4] = numbers[5]
 numbers[5] = temp2
 
 print(numbers)
+
+i = 5
+
+while i == 5:
+    print("That just my baby doge.")
